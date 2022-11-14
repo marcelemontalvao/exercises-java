@@ -8,13 +8,6 @@ public class Main {
         Scanner input = new Scanner(System.in);
         int age = input.nextInt();
         System.out.println("Entrada - " + age);
-
-        if(age >= 18 && age <= 70) {
-            System.out.println("Saída - Voto obrigatório");
-        } else if (age >= 16 && age < 18) {
-            System.out.println("Saída - Voto  facultativo");
-        } else  {
-            System.out.println("Saída - Sem direito a votar");
-        }
+        System.out.println("Saída - " + ((age >= 18 && age <= 70) ? "Voto obrigatório" : (age >= 16 && age < 18) ? "Voto  facultativo" : "Sem direito a votar"));
     }
 }
