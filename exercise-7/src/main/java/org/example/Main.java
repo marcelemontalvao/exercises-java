@@ -34,7 +34,7 @@ public class Main {
                 System.out.println("Água - R$ 2,50");
                 break;
             default:
-                System.out.println("Insira um número válido!");
+                System.out.println("Insira uma opção válida!");
         }
     }
 }
