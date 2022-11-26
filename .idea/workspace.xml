@@ -4,16 +4,18 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="a50c2ea6-a124-4159-bfc1-37e82a0351d2" name="Changes" comment="exercise-7">
-      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/aula/pom.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/aula/src/main/java/org/example/Main.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/exercise-9/pom.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/exercise-9/src/main/java/org/example/Main.java" afterDir="false" />
+    <list default="true" id="a50c2ea6-a124-4159-bfc1-37e82a0351d2" name="Changes" comment="">
+      <change afterPath="$PROJECT_DIR$/exercise-10/pom.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/exercise-10/src/main/java/org/example/Main.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/compiler.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/compiler.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/encodings.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/encodings.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/misc.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/exercise-3/target/classes/application.properties" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/exercise-3/target/classes/org/example/Main.class" beforeDir="false" afterPath="$PROJECT_DIR$/exercise-3/target/classes/org/example/Main.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/exercise-5/target/classes/org/example/Main.class" beforeDir="false" afterPath="$PROJECT_DIR$/exercise-5/target/classes/org/example/Main.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/exercise-7/target/classes/org/example/Main.class" beforeDir="false" afterPath="$PROJECT_DIR$/exercise-7/target/classes/org/example/Main.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/exercise-8/target/classes/org/example/Main.class" beforeDir="false" afterPath="$PROJECT_DIR$/exercise-8/target/classes/org/example/Main.class" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -58,7 +60,7 @@
       <recent name="$PROJECT_DIR$" />
     </key>
   </component>
-  <component name="RunManager">
+  <component name="RunManager" selected="Application.Main (3)">
     <configuration name="Main (1)" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="org.example.Main" />
       <module name="exercise-6" />
@@ -198,7 +200,14 @@
       <option name="project" value="LOCAL" />
       <updated>1668467026884</updated>
     </task>
-    <option name="localTasksCounter" value="9" />
+    <task id="LOCAL-00009" summary="exercise-9 - jogo da forca">
+      <created>1669421806998</created>
+      <option name="number" value="00009" />
+      <option name="presentableId" value="LOCAL-00009" />
+      <option name="project" value="LOCAL" />
+      <updated>1669421806998</updated>
+    </task>
+    <option name="localTasksCounter" value="10" />
     <servers />
   </component>
   <component name="Vcs.Log.Tabs.Properties">
@@ -221,6 +230,7 @@
     <MESSAGE value="exercise-6" />
     <MESSAGE value="exercise-7" />
     <MESSAGE value="exercise-8" />
-    <option name="LAST_COMMIT_MESSAGE" value="exercise-8" />
+    <MESSAGE value="exercise-9 - jogo da forca" />
+    <option name="LAST_COMMIT_MESSAGE" value="exercise-9 - jogo da forca" />
   </component>
 </project>
